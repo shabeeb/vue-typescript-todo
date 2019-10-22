@@ -2,6 +2,12 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
+  "keywords": [
+    "vue",
+    "vuex"
+  ],
+  "author": "shabeeb <mail@shabeebk.com>",
+  "license": "ISC",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
